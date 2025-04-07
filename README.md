@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-ashy-phi.vercel.app/](https://personal-portfolio-ashy-phi.vercel.app/)
 
-- 💬 Ask me about **react, node.js,**
+- 💬 Ask me about **react, node.js,express
 
 - 📫 How to reach me **gautamtashu201@gmail.com**
 
